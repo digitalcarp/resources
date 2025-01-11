@@ -34,6 +34,8 @@ A collection of resources for future projects, study, or reference.
 * [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut)
 * [Beginning Game Programming](https://lazyfoo.net/tutorials/SDL)
+* [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
+* [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
 
 ### Machine Learning
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
@@ -54,6 +56,7 @@ A collection of resources for future projects, study, or reference.
 
 ### Operating Systems
 * [Linux from Scratch](https://www.linuxfromscratch.org)
+* [Lord of the io_uring](https://unixism.net/loti/)
 
 ## Hardware
 * [abc](https://github.com/berkeley-abc/abc)
