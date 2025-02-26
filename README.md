@@ -34,8 +34,11 @@ A collection of resources for future projects, study, or reference.
 * [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut)
 * [Beginning Game Programming](https://lazyfoo.net/tutorials/SDL)
-* [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
+* [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform)
 * [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
+* [A Primer on Bezier Curves](https://pomax.github.io/bezierinfo)
+* [The Beauty of Bezier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
+* [The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds)
 
 ### Machine Learning
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
