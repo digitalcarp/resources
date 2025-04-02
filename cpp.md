@@ -1,5 +1,8 @@
 # C++
 
+* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+* [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+
 ## Official Stuff
 
 * [C++ reference](https://en.cppreference.com/w/)
