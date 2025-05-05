@@ -17,6 +17,8 @@
 
 * [CppCon 2022: Back to Basics: Templates in C++ - Nicolai Josuttis](https://www.youtube.com/watch?v=HqsEHG0QJXU)
 * [CppCon 2022: C++ Lambda Idioms - Timur Doumler](https://www.youtube.com/watch?v=xBAduq0RGes)
+* [CppCon 2024: Back to Basics: Concepts in C++ - Nicolai Josuttis](https://www.youtube.com/watch?v=jzwqTi7n-rg)
+* [CppCon 2024: Taming the Filter View in C++ Programming - Nicolai Josuttis](https://www.youtube.com/watch?v=c1gfbbE2zts)
 
 #### STL
 
