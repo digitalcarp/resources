@@ -15,6 +15,7 @@ A collection of resources for future projects, study, or reference.
   * [Operating Systems](#operating-systems)
 * [Hardware](#hardware)
 * [Version Control](#version-control)
+* [Management](#management)
 * [Misc](#misc)
 
 ## Software
@@ -79,6 +80,12 @@ A collection of resources for future projects, study, or reference.
   * [Sparse checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/)
   * [Partial and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
   * [Sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+
+## Management
+
+* [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+* [Notes on Managing ADHD](https://borretti.me/article/notes-on-managing-adhd)
+  * Also check associated HackerNews topics
 
 ## Misc
 * [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier)
